@@ -473,7 +473,7 @@ a {
 }
 
 #program .panel-title {
-	float:left;
+	float:right;
 }
 
 #program .panel-title > a {
